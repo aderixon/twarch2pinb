@@ -22,7 +22,8 @@ text as the description for the bookmark, with the original tweet inserted
 in Pinboard's extended description field.
 
 twarch2pinb does not perform any filtering on the links it finds; *all*
-tweeted links, including media, will be bookmarked.
+tweeted links, including media and autoposted tweets such as Tweeklyfm,
+will be bookmarked.
 
 # Usage
 
